@@ -20,4 +20,4 @@ I have been a software developer since 2018, working mostly with frontend techno
 ![Github Status](https://github-readme-stats.vercel.app/api?username=pedrofnuness&show_icons=true&theme=dracula)
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofnuness&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofnuness&hide_progress=false)
