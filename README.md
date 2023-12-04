@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi! My name is Pedro Nunes 👋
+
+I have been a software developer since 2018, working mostly with frontend technologies.
 
 <!--
 **pedrofnuness/pedrofnuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=pedrofnuness&show_icons=true&theme=dracula)
+
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofnuness&hide_progress=true)
